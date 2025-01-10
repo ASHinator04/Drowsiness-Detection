@@ -4,7 +4,7 @@
 
 This repository contains the code and models developed during my internship at DRDO for a drowsiness detection system. The project focuses on detecting drowsiness in users by analyzing their eye aspect ratio (EAR) and facial images. The models provided here are trained to predict the drowsiness state based on these inputs.
 
-**Important Note:** This repository only includes the code and model files. The dataset used for training the models is not included due to specific reasons, including privacy and confidentiality concerns.
+**Important Note:** This repository only includes the code and model files. The dataset used for training the models is *NOT INCLUDED* due to specific reasons, including privacy and confidentiality concerns.
 
 ---
 
