@@ -21,11 +21,11 @@ This repository contains the code and models developed during my internship at D
 
 ## How to Use the Models 🛠️
 
-### Input Requirements:
+#### Input Requirements:
 - **Image:** A facial image of the user resized to **224x224 pixels**.
 - **EAR (Eye Aspect Ratio):** The EAR value calculated using OpenCV. The EAR is a scalar value that represents the ratio of distances between key facial landmarks around the eyes.
 
-### Output:
+#### Output:
 - The model will output the drowsiness state of the user, which can be one of the following:
   - `0`: Not drowsy
   - `1`: Drowsy
