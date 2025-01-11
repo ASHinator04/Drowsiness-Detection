@@ -52,7 +52,6 @@ This repository contains the code and models developed during my internship at D
 
 ### Acknowledgments 🙏
 - I would like to thank DRDO for providing me with the opportunity to work on this project during my internship. Special thanks to my mentors and colleagues for their guidance and support.
-- Also thanking the authors of the paper https://www.mdpi.com/2076-3417/11/19/9068. This repo implements the mentioned paper.
 
 ### License 
 - This project is licensed under the MIT License. See the LISCENCE file for details.
